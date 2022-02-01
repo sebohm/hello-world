@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for GitHub
 
 We need another Change in den ReadMe File
+
+I just add a new line
